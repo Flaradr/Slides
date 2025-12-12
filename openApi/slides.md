@@ -1,31 +1,19 @@
-# A deep dive into OpenApi 2
-
+# Introduction à OpenAPI
 ---
 
 ## Andrew Pruski
 
-
-### Field Solutions Architect
-#### Microsoft Data Platform MVP 
-#### Docker Captain
-#### VMware vExpert
-
 <!-- .slide: style="text-align: left;"> -->
-<i class="fa-brands fa-bluesky"></i><a href="https://bsky.app/profile/dbafromthecold.com">  @dbafromthecold.com</a><br>
-<i class="fas fa-envelope"></i>  dbafromthecold@gmail.com<br>
-<i class="fab fa-wordpress"></i>  www.dbafromthecold.com<br>
-<i class="fab fa-github"></i><a href="https://github.com/dbafromthecold">  github.com/dbafromthecold</a>
+Introduction à OpenAPI
 
 ---
 
-## Session Aim
-<!-- .slide: style="text-align: left;"> -->
+## Code first
 To provide a deeper knowledge of the Docker platform
 
 ---
 
-## Agenda
-<!-- .slide: style="text-align: left;"> -->
+## Design first
 - Isolation<br>
 - Networking<br>
 - Persisting data<br>

@@ -100,12 +100,10 @@ computeWithoutVAT();
 
 ---
 
-
 ## Traps to avoid as a boy scout
 
 - Sunk cost fallacy => Know when to stop
 - Large refactoring still require a separate task with a separate time slot<br>
 - Lack of sharing
 
----
 

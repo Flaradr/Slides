@@ -42,7 +42,7 @@ int x = 5;
 
 // After
 int numberOfItems = 5;
-</pre></code>
+</code></pre>
 
 ---
 
@@ -52,7 +52,7 @@ int numberOfItems = 5;
 // randomFunkyMethod();
 // randomFunkyMethod2();
 // Not sure if it works, keeping it in case of rollback
-</pre></code>
+</code></pre>
 
 
 ---
@@ -77,7 +77,7 @@ public void processOrder() {
 private boolean isStockSufficient() {
     return stock >= orderQuantity;
 }
-</pre></code>
+</code></pre>
 
 ---
 
@@ -96,7 +96,7 @@ computeWithoutVAT();
 // After
 // Compute item price without VAT
 computeWithoutVAT();
-</pre></code>
+</code></pre>
 
 ---
 

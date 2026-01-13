@@ -8,7 +8,7 @@ Allows to insert text
 Quit the insertion 
 - Escape
 
---- 
+---
 
 ## Delete characters
 - x : Delete the character under the cursor

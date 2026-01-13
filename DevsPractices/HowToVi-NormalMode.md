@@ -21,7 +21,7 @@ Example :
 <b>M</b>oving within the text.
 
 Moving within the <b>t</b>ext.
-</pre></code>
+</code></pre>
 
 ---
 
@@ -36,7 +36,7 @@ e.g. fo finds the next o
 <b>F</b>or example, you can find 3rd occurrence of 'q' with 3fq, que ?
 
 For example, you can find 3rd occurrence of 'q' with 3fq, <b>q</b>ue ?
-</pre></code>
+</code></pre>
 
 ---
 

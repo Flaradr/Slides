@@ -1,4 +1,6 @@
-# VI or: How I Learned to Stop Worrying and Love My Editor
+# VI 
+
+How I Learned to Stop Worrying and Love My Editor
 
 ---
 

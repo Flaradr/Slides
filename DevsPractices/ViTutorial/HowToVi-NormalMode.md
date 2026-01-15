@@ -17,11 +17,7 @@ Allows to navigate in the file.
 You can also add a number before the action !
 
 <!-- .slide: style="text-align: left;"> -->
-<pre><code data-line-numbers="1|2|4" data-noescape>Typing 3w is equal to pressing 3 times "w"
-<ins>M</ins>oving within the text.
-
-Moving within the <ins>t</ins>ext.
-</code></pre>
+Typing 3w is equal to pressing 3 times "w"
 
 ---
 
@@ -30,13 +26,12 @@ Moving within the <ins>t</ins>ext.
 Using <b><i>f</i></b> allows you to search for a specific character !
 e.g. <b><i>fo</i></b> finds the next o
 
-<!-- .slide: style="text-align: left;"> -->
-<pre><code data-line-numbers="1|3|5" data-noescape>Once again, numbers can also be used !
-"3fq" helps you to find the 3rd occurrence of 'q'.
+Once again, numbers can also be used !
+
+What does "3fq" do in the following example ?
+
 <ins>F</ins>or example, you can find 3rd occurrence of 'q' with 3fq, que ?
 
-For example, you can find 3rd occurrence of 'q' with 3fq, <ins>q</ins>ue ?
-</code></pre>
 
 ---
 

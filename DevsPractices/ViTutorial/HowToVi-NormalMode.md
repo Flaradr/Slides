@@ -52,7 +52,7 @@ For example, you can find 3rd occurrence of 'q' with 3fq, <ins>q</ins>ue ?
 - `*` : find the next occurrence of the current word
 - `#` : find the previous occurrence of the current word
 
---- 
+---
 
 ## Start and end of file
 
@@ -60,7 +60,7 @@ For example, you can find 3rd occurrence of 'q' with 3fq, <ins>q</ins>ue ?
 - <b><i>G</b></i> : go to the end of the file
 - Adding a number before <b><i>G</b></i> allows you to go to a specific line
 
---- 
+---
 
 ## Search a text
 
@@ -68,4 +68,4 @@ For example, you can find 3rd occurrence of 'q' with 3fq, <ins>q</ins>ue ?
 - <b><i>n</b></i> :  allows you to find the next occurrence
 - <b><i>N</b></i> : allows you to find the previous occurrence
 
---- 
+---
